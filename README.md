@@ -1,4 +1,4 @@
-This project explores the use of Graph Attention Networks (GATs) for detecting money laundering activities in financial transaction networks. Traditional AML detection methods struggle to capture complex transaction patterns, making them ineffective against sophisticated laundering schemes. Our approach represents financial transactions as graphs, where entities are nodes and transactions are edges, enabling a more structured analysis.
+This PAPER explores the use of Graph Attention Networks (GATs) for detecting money laundering activities in financial transaction networks. Traditional AML detection methods struggle to capture complex transaction patterns, making them ineffective against sophisticated laundering schemes. Our approach represents financial transactions as graphs, where entities are nodes and transactions are edges, enabling a more structured analysis.
 
 Key Highlights
 ✅ GAT-Based Model – Leverages graph structures to uncover illicit financial activities.
